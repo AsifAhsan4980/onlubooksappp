@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874452910607",
+    "firebase_url": "https://onlybooks-e1483-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "onlybooks-e1483",
+    "storage_bucket": "onlybooks-e1483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874452910607:android:80c9705416137d8628d97a",
+        "android_client_info": {
+          "package_name": "com.example.onlybooksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874452910607-a8rdq1jhdigklsq8csquoodpi5q7167j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qM7iFrmDJdQO_8938NYf1mbUIpBezxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874452910607-a8rdq1jhdigklsq8csquoodpi5q7167j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
