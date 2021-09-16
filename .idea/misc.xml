@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/activity_addbook.xml" value="0.209375" />
+        <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/activity_borrow.xml" value="0.209375" />
         <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/activity_main.xml" value="0.209375" />
         <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/activity_register.xml" value="0.1" />
         <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/activity_spalsh.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/dialogcontent.xml" value="0.209375" />
+        <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/layout/singlerow.xml" value="0.209375" />
         <entry key="..\:/Users/Ahsan/AndroidStudioProjects/OnlyBooksApp/app/src/main/res/menu/searchmenu.xml" value="0.1" />
       </map>
     </option>

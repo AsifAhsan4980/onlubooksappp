@@ -5,4 +5,18 @@
     <string name="log_in">Log In</string>
     <string name="password">Password</string>
     <string name="enter_email">Enter Email</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_book">Your Book</string>
+    <string name="price">Price</string>
+    <string name="book_image_url">Book Image URL</string>
+    <string name="lend_book_sell">Lend Book/Sell</string>
+    <string name="back">Back</string>
+    <string name="buy_or_loan_books">Buy or Loan Books</string>
+    <string name="name">Name</string>
+    <string name="books_lend">Books Lend</string>
+    <string name="book_name">Book Name</string>
+    <string name="switch_to_buy_borrow">Switch to Buy/Borrow</string>
+    <string name="todo">TODO</string>
+    <string name="string_todo" />
+    <string name="set_location">Set Location</string>
 </resources>

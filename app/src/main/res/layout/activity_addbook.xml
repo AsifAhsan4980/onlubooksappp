@@ -6,33 +6,37 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@color/white"
     tools:context=".AddbookActivity">
 
+    <TextView
+
+        android:id="@+id/ascd"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Lend Book/Sell Book"
+        android:textSize="30sp"
+        android:layout_marginBottom="15dp"
+        android:textColor="#5b6"/>
 
     <EditText
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:id="@+id/add_name"
+        android:id="@+id/name"
         android:textSize="20sp"
-        android:hint="Your Name"
+        android:hint="@string/book_name"
         android:layout_marginBottom="15dp"
         android:textColor="#000"/>
 
-    <EditText
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/add_book"
-        android:textSize="20sp"
-        android:hint="Your Book"
-        android:layout_marginBottom="15dp"
-        android:textColor="#000"/>
+
 
     <EditText
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:id="@+id/add_price"
         android:textSize="20sp"
-        android:hint="Price"
+        android:hint="@string/price"
+        android:inputType="number"
         android:layout_marginBottom="15dp"
         android:textColor="#000"/>
 
@@ -42,9 +46,34 @@
         android:layout_height="wrap_content"
         android:id="@+id/add_purl"
         android:textSize="20sp"
-        android:hint="Book Image URL"
+        android:hint="@string/book_image_url"
         android:layout_marginBottom="15dp"
         android:textColor="#000"/>
+    <TextView
+        android:id="@+id/set_latitude"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginBottom="15dp"
+        android:textColor="#000"
+        />
+
+    <TextView
+
+        android:id="@+id/set_longitude"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginBottom="15dp"
+        android:textColor="#000"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="50dp"
+        android:id="@+id/add_location"
+        android:textSize="20sp"
+        android:text="@string/set_location"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -52,14 +81,16 @@
         android:layout_marginBottom="15dp"
         android:id="@+id/add_submit"
         android:textSize="20sp"
-        android:text="Lend Book/Sell"/>
+        android:text="@string/lend_book_sell"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/add_back"
         android:textSize="20sp"
-        android:text="Back"/>
+        android:text="@string/books_lend"/>
+
+
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
